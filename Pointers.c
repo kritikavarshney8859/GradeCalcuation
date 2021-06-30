@@ -30,6 +30,6 @@ void main()
 	{
 		sum=sum+*p[i][i];
 	}
-	printf("Sum of 3x3 all diagonal element is: %d",sum);
+	printf("Sum of all diagonal element is: %d",sum);
 	
 }
