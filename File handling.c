@@ -28,6 +28,6 @@ int main()
 	}
 	fclose(fp);
 	fclose(fp1);
-	printf(" File is successfully copied");
+	printf("\nFile is successfully copied");
 	return 0;
 }
